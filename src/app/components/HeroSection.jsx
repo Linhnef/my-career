@@ -37,11 +37,11 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-xs sm:text-base mb-6 lg:text-base">
-            My name is Linh, I'm a Software engineer, I have 4 years of experience
+            My name is Linh, I&apos;m a Software engineer, I have 4 years of experience
             building innovative and scalable web applications. With a deep
-            understanding of both front-end and back-end technologies, I'm
+            understanding of both front-end and back-end technologies, I&apos;m
             skilled in crafting intuitive user experiences powered by robust
-            server-side logic. I'm working hard every day to grow up.
+            server-side logic. I&apos;m working hard every day to grow up.
           </p>
           <div>
             <Link
